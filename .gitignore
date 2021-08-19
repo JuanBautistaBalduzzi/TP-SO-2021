@@ -1,0 +1,34 @@
+/.metadata/
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# CLion files
+*/.idea/
+
+# Visual Studio Code files
+*/.vscode/
+
+# Other
+*/bin/
+*/obj/
+*.log
+/.metadata/
+
+# Zip - Rar
+*.zip
+*.rar
+
+*.xml
+*.config
+/RemoteSystemsTempFiles/
